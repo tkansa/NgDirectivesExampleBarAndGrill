@@ -1,6 +1,8 @@
 Welcome to Tiia's Dive Bar and Grill
 
-This is a simple example which demos the use of *ngFor, ngStyle, *ngIf and should help you get started on your Todo Lab id you're stuck. If you clone this, don't forget to cd into the directory and run - npm install - to add the necessary packages in order to run it. 
+This is a simple example which demos the use of *ngFor, ngStyle, *ngIf and should help you get started on your Todo Lab id you're stuck. If you clone this, don't forget to cd into the directory and run - npm install - to add the necessary packages in order to run it.
+
+To "order a beer", open the developer console in the browser, and click the button to order one. Cheers!
 
 # MadLibs
 
