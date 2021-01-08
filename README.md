@@ -1,3 +1,7 @@
+Welcome to Tiia's Dive Bar and Grill
+
+This is a simple example which demos the use of *ngFor, ngStyle, *ngIf and should help you get started on your Todo Lab id you're stuck. If you clone this, don't forget to cd into the directory and run - npm install - to add the necessary packages in order to run it. 
+
 # MadLibs
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.5.
