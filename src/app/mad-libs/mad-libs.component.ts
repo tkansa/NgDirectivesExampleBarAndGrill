@@ -24,7 +24,7 @@ export class MadLibsComponent implements OnInit {
   ]
  
   // add a title
-  title: string = "Tiia's Dive Bar and Grill"
+  title: string = "Tiia's Dive Bar and Veg Grill"
 
   // order beer function takes in a name parameter and console logs the order
   orderBeer = function(name: string): void {

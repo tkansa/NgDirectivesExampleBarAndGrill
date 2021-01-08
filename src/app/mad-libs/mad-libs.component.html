@@ -5,7 +5,7 @@
         <!-- display the name -->
         name: {{person.name}}, 
         <!-- display the over 21 bool and if false apply the .red class -->
-        Over 21? <span [ngClass]="{ red: !person.isTwentyOne }">{{person.isTwentyOne}}  </span>
+        Over 21? <span [ngClass]="{ red: !person.isTwentyOne }"> {{person.isTwentyOne}} </span>
         <!-- use *ngIf to add an order button if the person is old enough -->
         <span *ngIf="person.isTwentyOne"><button (click)="orderBeer(person.name)">Order Beer</button></span>
     </li>
